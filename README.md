@@ -1,5 +1,5 @@
-# 💫 Hello Earth!
-An Aspiring Full Stack Software Engineer from the Philippines that Loves to Explore Software Development Technologies, Develop Useful Programs, and Collaborate with Innovative Teams!
+# 💫 Hello Developers!
+An Aspiring Full Stack Software Engineer from the Philippines who Loves to Explore Software Development Technologies, Develop Useful Programs, and Collaborate with Innovative Teams!
 
 
 ## 🌐 Socials:
